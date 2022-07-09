@@ -58,7 +58,7 @@ permission de USA Ultimate. Elles sont indiquées par un symbol +.
 
 ### 1. Esprit du jeu
 
-#### 1.1 transgression délibérée ou flagrante des règles (1.2.1.)
+#### 1.1 Transgression délibérée ou flagrante des règles (1.2.1)
 
 Pour qu'une transgression des règles soit considérée comme flagrante il faut qu'il s'agisse d'une transgression des
 règles qui ne devrait pas se produire dans un jeu standard d'Ultimate, ou une pour laquelle il n'y a pas de
